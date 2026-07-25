@@ -127,12 +127,19 @@ I am learning full-stack development by building and improving real projects. My
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
-## GitHub Activity
+## Activity & Direction
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghanshyam-pareek-dev&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=F59E0B&text_color=C9D1D9" alt="GitHub stats for Ghanshyam Pareek" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-pareek-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top languages for Ghanshyam Pareek" />
-</p>
+<sub>STABLE PROFILE SECTION | NO BROKEN EXTERNAL CARDS</sub>
+
+| Current focus | Building proof |
+|:--|:--|
+| AI automation | Prompt systems, workflow ideas, and productivity experiments |
+| Full-stack learning | HTML, CSS, JavaScript, React, Node.js, Git, and GitHub projects |
+| Design portfolio | Canva, Photoshop, Figma, brand visuals, and content systems |
+| Startup operations | Lacsa Tech experiments, business strategy, and execution notes |
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ghanshyam-pareek-dev&color=2F81F7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ghanshyam-pareek-dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ghanshyam-pareek-dev)
 
 <img src="./assets/premium-divider.svg" width="100%" alt="">
 
