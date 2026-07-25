@@ -7,10 +7,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-pareek)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avdhuu.work@gmail.com)
-[![Lacsa Tech](https://img.shields.io/badge/LACSA_TECH-F59E0B?style=flat-square&logo=googlechrome&logoColor=111827)](https://github.com/ghanshyam-pareek-dev)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-IN_PROGRESS-238636?style=flat-square)](https://github.com/ghanshyam-pareek-dev)
+<a href="https://www.linkedin.com/in/ghanshyam-pareek"><img src="./assets/contact-linkedin.svg" height="34" alt="LinkedIn"></a>
+<a href="mailto:avdhuu.work@gmail.com"><img src="./assets/contact-email.svg" height="34" alt="Email"></a>
+<a href="https://www.instagram.com/ghanshyampareekk/"><img src="./assets/contact-instagram.svg" height="34" alt="Instagram"></a>
+<a href="https://lacsa.tech/"><img src="./assets/contact-lacsa.svg" height="34" alt="Lacsa Tech"></a>
 
 <br/>
 
@@ -160,7 +160,7 @@ I am learning full-stack development by building and improving real projects. My
 
 ### Commerce gives me the lens. Design gives me clarity. Code gives me leverage.
 
-[LinkedIn](https://linkedin.com/in/ghanshyam-pareek) | [Email](mailto:avdhuu.work@gmail.com) | [GitHub](https://github.com/ghanshyam-pareek-dev)
+[LinkedIn](https://www.linkedin.com/in/ghanshyam-pareek) | [Email](mailto:avdhuu.work@gmail.com) | [Instagram](https://www.instagram.com/ghanshyampareekk/) | [Lacsa Tech](https://lacsa.tech/)
 
 <br/>
 
