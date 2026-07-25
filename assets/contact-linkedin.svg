@@ -1,1 +1,11 @@
-<svg width="146" height="34" viewBox="0 0 146 34" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="bg" x1="0" y1="0" x2="146" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#0A66C2" stop-opacity="0.95"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0.72"/></linearGradient></defs><rect x="0.75" y="0.75" width="144.5" height="32.5" rx="8" fill="url(#bg)" stroke="#B6D7FF" stroke-opacity="0.35" stroke-width="1.5"/><text x="73" y="22" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="800" letter-spacing="0.7">LINKEDIN</text></svg>
+<svg width="146" height="34" viewBox="0 0 146 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="146" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="144.5" height="32.5" rx="8" fill="#161B22" fill-opacity="0.88" stroke="#58A6FF" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="2.5" y="2.5" width="141" height="29" rx="7" fill="url(#bg)"/>
+  <text x="73" y="22" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="800" letter-spacing="0.7">LINKEDIN</text>
+</svg>
