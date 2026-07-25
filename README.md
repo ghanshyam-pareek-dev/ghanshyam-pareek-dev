@@ -1,112 +1,162 @@
 <div align="center">
-  <img src="./assets/glass-banner.svg" alt="Ghanshyam Pareek - Commerce x AI x Design x Code" width="100%" />
+
+<picture>
+  <source media="(max-width: 768px)" srcset="./assets/hero-profile-mobile.svg">
+  <img src="./assets/hero-profile-desktop.svg" width="100%" alt="Ghanshyam Pareek - Commerce student, CA aspirant, AI automation enthusiast, designer, and startup builder">
+</picture>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-pareek)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avdhuu.work@gmail.com)
+[![Lacsa Tech](https://img.shields.io/badge/LACSA_TECH-F59E0B?style=flat-square&logo=googlechrome&logoColor=111827)](https://github.com/ghanshyam-pareek-dev)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-IN_PROGRESS-238636?style=flat-square)](https://github.com/ghanshyam-pareek-dev)
+
+<br/>
+
+<sub>AI AUTOMATION | GRAPHIC DESIGN | STARTUP OPERATIONS | FULL-STACK LEARNING | BUSINESS STRATEGY</sub>
+
 </div>
 
+<br/>
+
+> I am building at the intersection of commerce, AI automation, design, and startup execution. My focus is simple: learn fast, build useful systems, and turn ideas into clean digital products.
+
+<picture>
+  <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg">
+  <img src="./assets/impact-premium-desktop.svg" width="100%" alt="Profile snapshot for Ghanshyam Pareek">
+</picture>
+
+<br/>
+
+## Founder Track | Lacsa Tech
+
+<sub>STARTUP BUILDING | AI AUTOMATION | DIGITAL SYSTEMS | BUSINESS EXECUTION</sub>
+
+Lacsa Tech is my startup-building track where I explore practical technology, business workflows, automation ideas, and creator-focused digital systems.
+
+- Building a business-first technology mindset with AI and automation.
+- Exploring workflow systems for students, creators, and startups.
+- Learning how to connect product thinking, design, marketing, and execution.
+- Growing through real projects instead of only theory.
+
+[![Role](https://img.shields.io/badge/ROLE-CEO-238636?style=flat-square)](https://github.com/ghanshyam-pareek-dev)
+[![Focus](https://img.shields.io/badge/FOCUS-AI_AUTOMATION-2F81F7?style=flat-square)](https://github.com/ghanshyam-pareek-dev)
+[![Startup](https://img.shields.io/badge/STARTUP-LACSA_TECH-F59E0B?style=flat-square)](https://github.com/ghanshyam-pareek-dev)
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## Creative & Content Work
+
+<sub>GRAPHIC DESIGN | SOCIAL MEDIA MARKETING | BRAND VISUALS | EDITING</sub>
+
+I work with design tools and content systems to make brands, products, and ideas look clear, sharp, and trustworthy.
+
+- Graphic design using **Photoshop, Canva, and Figma**.
+- Social media creatives, content planning, and visual storytelling.
+- Creative Editor at **Raise'em**.
+- Brand-first thinking for startup pages, posts, thumbnails, and launch assets.
+
+<details>
+<summary><b>Creative toolkit</b></summary>
+
+<br/>
+
+`Photoshop` | `Canva` | `Figma` | `Content Creation` | `Social Media Marketing` | `Brand Identity` | `Visual Systems`
+
+</details>
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## AI & Automation
+
+<sub>PROMPT ENGINEERING | WORKFLOW DESIGN | AI-ASSISTED OPERATIONS</sub>
+
+I am interested in using AI as a real execution layer: faster research, sharper planning, better content workflows, automation experiments, and business productivity systems.
+
+- Prompt engineering for practical business and creator workflows.
+- AI-assisted content, planning, and operational systems.
+- Automation ideas for repetitive tasks and startup execution.
+- Experiments that connect business problems with simple digital solutions.
+
+<details>
+<summary><b>Automation direction</b></summary>
+
+<br/>
+
+`Prompt Systems` | `AI Workflows` | `Business Automation` | `Content Systems` | `Productivity Tools` | `No-Code/Low-Code Thinking`
+
+</details>
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## Full-Stack Learning
+
+<sub>HTML | CSS | JAVASCRIPT | REACT | NODE.JS | GIT | GITHUB</sub>
+
+I am learning full-stack development by building and improving real projects. My goal is to understand both the technical side and the business reason behind each product.
+
+### Build areas
+
+- **Frontend:** clean layouts, responsive pages, and practical user interfaces.
+- **JavaScript:** logic, interactivity, and project-based learning.
+- **React:** component-based UI development.
+- **Node.js:** backend fundamentals and APIs.
+- **Git & GitHub:** public proof of work, version control, and project presentation.
+
+[![HTML](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)](https://github.com/ghanshyam-pareek-dev)
+[![CSS](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/ghanshyam-pareek-dev)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://github.com/ghanshyam-pareek-dev)
+[![React](https://img.shields.io/badge/REACT-111827?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/ghanshyam-pareek-dev)
+[![Node.js](https://img.shields.io/badge/NODE.JS-111827?style=flat-square&logo=node.js&logoColor=339933)](https://github.com/ghanshyam-pareek-dev)
+[![Git](https://img.shields.io/badge/GIT-111827?style=flat-square&logo=git&logoColor=F05032)](https://github.com/ghanshyam-pareek-dev)
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## Project Directions
+
+<sub>PUBLIC REPOSITORIES I AM BUILDING TOWARD</sub>
+
+| Direction | What it proves | Suggested repo |
+|:--|:--|:--|
+| AI automation experiments | Prompt systems, workflows, and practical AI use | `ai-automation-lab` |
+| Startup website | Branding, frontend, and business presentation | `lacsa-tech-website` |
+| Design portfolio | Visual thinking, content, and creative direction | `creator-design-portfolio` |
+| Business tools | React/Node learning with useful workflows | `business-tools-dashboard` |
+| Startup operations notes | Strategy, planning, and execution thinking | `startup-ops-playbook` |
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
+
+## GitHub Activity
+
 <p align="center">
-  <a href="https://linkedin.com/in/ghanshyam-pareek">
-    <img src="https://img.shields.io/badge/LinkedIn-ghanshyam--pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:avdhuu.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-avdhuu.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ghanshyam-pareek-dev">
-    <img src="https://img.shields.io/badge/Portfolio-In%20Progress-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio in progress" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghanshyam-pareek-dev&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=F59E0B&text_color=C9D1D9" alt="GitHub stats for Ghanshyam Pareek" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-pareek-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top languages for Ghanshyam Pareek" />
 </p>
 
-<h3 align="center">Business-minded builder combining commerce, AI automation, design, and code.</h3>
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
-<p align="center">
-  I am a commerce student and CA aspirant building practical digital systems: automation workflows, startup assets, web projects, brand creatives, and tools that make execution faster.
-</p>
+## Technical Stack
 
----
+**Development**  
+`HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `Git` | `GitHub`
+
+**AI & Automation**  
+`Prompt Engineering` | `Workflow Design` | `AI-Assisted Productivity` | `Automation Thinking`
+
+**Creative & Business**  
+`Photoshop` | `Canva` | `Figma` | `Content Creation` | `Social Media Marketing` | `Startup Operations` | `Business Strategy`
+
+<img src="./assets/premium-divider.svg" width="100%" alt="">
 
 <div align="center">
-  <img src="./assets/glass-focus.svg" alt="Builder command center" width="100%" />
+
+### Commerce gives me the lens. Design gives me clarity. Code gives me leverage.
+
+[LinkedIn](https://linkedin.com/in/ghanshyam-pareek) | [Email](mailto:avdhuu.work@gmail.com) | [GitHub](https://github.com/ghanshyam-pareek-dev)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ghanshyam-pareek-dev&color=2F81F7&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
-
----
-
-## Identity Stack
-
-| Layer | What I Bring |
-| --- | --- |
-| Commerce + CA Mindset | Finance-first thinking, structure, discipline, and business understanding |
-| AI + Automation | Prompt engineering, workflow ideas, productivity systems, and AI-assisted operations |
-| Design + Content | Photoshop, Canva, Figma, social media creatives, brand visuals, and editing |
-| Startup Building | CEO at Lacsa Tech, creative editor at Raise'em, strategy and operations |
-| Web Development | Learning HTML, CSS, JavaScript, React, Node.js, Git, and GitHub through real projects |
-
----
-
-## Current Roles
-
-```txt
-CEO              Lacsa Tech
-Creative Editor  Raise'em
-Learning Track   Full-stack development
-Core Interest    AI automation + startup operations
-```
-
----
-
-## Tools I Use
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
-  <img src="https://img.shields.io/badge/Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
-</p>
-
----
-
-## Featured Build Areas
-
-| Project Direction | Why It Matters | Stack / Skill |
-| --- | --- | --- |
-| `ai-automation-lab` | Experiments with prompt systems, AI workflows, and automation ideas | AI, prompts, workflow design |
-| `lacsa-tech-website` | Startup presence with clean brand execution | HTML, CSS, JavaScript |
-| `creator-design-portfolio` | Social media creatives, thumbnails, brand posts, and design direction | Canva, Photoshop, Figma |
-| `business-tools-dashboard` | Simple tools for tracking, planning, and startup operations | React, Node.js |
-| `startup-ops-playbook` | Business strategy, content systems, and execution notes | Operations, marketing, systems |
-
----
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghanshyam-pareek-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8DFCF7&icon_color=A3FF12&text_color=D6E4FF" alt="GitHub stats for Ghanshyam Pareek" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-pareek-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8DFCF7&text_color=D6E4FF" alt="Top languages for Ghanshyam Pareek" />
-</p>
-
----
-
-## What I Am Building Toward
-
-- Shipping useful projects instead of only collecting tutorials
-- Turning business ideas into clean digital products
-- Using AI to build smarter workflows for creators, students, and startups
-- Growing Lacsa Tech into a practical technology and automation brand
-- Combining commerce knowledge with modern development and design skills
-
----
-
-<p align="center">
-  <b>Open to learning, building, collaborating, and turning sharp ideas into useful systems.</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ghanshyam-pareek">LinkedIn</a>
-  |
-  <a href="mailto:avdhuu.work@gmail.com">Email</a>
-  |
-  <a href="https://github.com/ghanshyam-pareek-dev">GitHub</a>
-</p>
