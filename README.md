@@ -23,8 +23,8 @@
 > I build AI-powered businesses, digital products, and practical systems. Currently leading Lacsa Tech, contributing to Raise'em, and growing ChromeEdgeDigital while expanding into finance and investments.
 
 <picture>
-  <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg?v=roles-01">
-  <img src="./assets/impact-premium-desktop.svg?v=roles-01" width="100%" alt="Profile snapshot for Ghanshyam Pareek">
+  <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg?v=roles-logo-01">
+  <img src="./assets/impact-premium-desktop.svg?v=roles-logo-01" width="100%" alt="Profile snapshot for Ghanshyam Pareek">
 </picture>
 
 <br/>
