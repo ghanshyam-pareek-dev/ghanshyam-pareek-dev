@@ -14,7 +14,7 @@
 
 <br/>
 
-<sub>AI AUTOMATION | GRAPHIC DESIGN | STARTUP OPERATIONS | FULL-STACK LEARNING | BUSINESS STRATEGY</sub>
+<img src="./assets/motto-sloka.svg?v=sloka-01" width="100%" alt="Udyamena hi sidhyanti karyani na manorathaih. Tasks are accomplished only through hard work and effort.">
 
 </div>
 
