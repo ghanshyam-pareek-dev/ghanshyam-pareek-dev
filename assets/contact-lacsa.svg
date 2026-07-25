@@ -5,7 +5,7 @@
       <stop offset="1" stop-color="#3FB950" stop-opacity="0.18"/>
     </linearGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="136.5" height="32.5" rx="8" fill="#161B22" fill-opacity="0.88" stroke="#3FB950" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="136.5" height="32.5" rx="8" fill="#000000" fill-opacity="0.92" stroke="#3FB950" stroke-opacity="0.55" stroke-width="1.5"/>
   <rect x="2.5" y="2.5" width="133" height="29" rx="7" fill="url(#bg)"/>
   <text x="69" y="22" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="800" letter-spacing="0.7">LACSA TECH</text>
 </svg>
