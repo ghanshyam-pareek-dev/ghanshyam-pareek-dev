@@ -1,1 +1,11 @@
-<svg width="138" height="34" viewBox="0 0 138 34" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="bg" x1="0" y1="0" x2="138" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#F59E0B" stop-opacity="0.94"/><stop offset="1" stop-color="#3FB950" stop-opacity="0.72"/></linearGradient></defs><rect x="0.75" y="0.75" width="136.5" height="32.5" rx="8" fill="url(#bg)" stroke="#FFF1B8" stroke-opacity="0.36" stroke-width="1.5"/><text x="69" y="22" text-anchor="middle" fill="#101820" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="900" letter-spacing="0.7">LACSA TECH</text></svg>
+<svg width="138" height="34" viewBox="0 0 138 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="138" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#3FB950" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="136.5" height="32.5" rx="8" fill="#161B22" fill-opacity="0.88" stroke="#3FB950" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="2.5" y="2.5" width="133" height="29" rx="7" fill="url(#bg)"/>
+  <text x="69" y="22" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="800" letter-spacing="0.7">LACSA TECH</text>
+</svg>
