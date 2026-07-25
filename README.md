@@ -1,95 +1,112 @@
-# Hi, I am Ghanshyam Pareek
+<div align="center">
+  <img src="./assets/glass-banner.svg" alt="Ghanshyam Pareek - Commerce x AI x Design x Code" width="100%" />
+</div>
 
-Commerce student, CA aspirant, startup builder, and AI automation enthusiast.
+<p align="center">
+  <a href="https://linkedin.com/in/ghanshyam-pareek">
+    <img src="https://img.shields.io/badge/LinkedIn-ghanshyam--pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:avdhuu.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avdhuu.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ghanshyam-pareek-dev">
+    <img src="https://img.shields.io/badge/Portfolio-In%20Progress-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio in progress" />
+  </a>
+</p>
 
-I am building at the intersection of business, design, automation, and modern web development. My work combines practical startup thinking with creative execution: automation systems, clean web experiences, brand assets, and tools that help people move faster.
+<h3 align="center">Business-minded builder combining commerce, AI automation, design, and code.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghanshyam--pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-pareek)
-[![Email](https://img.shields.io/badge/Email-avdhuu.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avdhuu.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-In%20Progress-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://linkedin.com/in/ghanshyam-pareek)
+<p align="center">
+  I am a commerce student and CA aspirant building practical digital systems: automation workflows, startup assets, web projects, brand creatives, and tools that make execution faster.
+</p>
 
 ---
 
-## What I Do
+<div align="center">
+  <img src="./assets/glass-focus.svg" alt="Builder command center" width="100%" />
+</div>
 
-| Area | Focus |
+---
+
+## Identity Stack
+
+| Layer | What I Bring |
 | --- | --- |
-| AI & Automation | Prompt engineering, workflow automation, AI-assisted business systems |
-| Web Development | HTML, CSS, JavaScript, React, Node.js, Git, GitHub |
-| Design | Photoshop, Canva, Figma, brand visuals, social media creatives |
-| Business | Startup operations, business strategy, content systems, marketing workflows |
+| Commerce + CA Mindset | Finance-first thinking, structure, discipline, and business understanding |
+| AI + Automation | Prompt engineering, workflow ideas, productivity systems, and AI-assisted operations |
+| Design + Content | Photoshop, Canva, Figma, social media creatives, brand visuals, and editing |
+| Startup Building | CEO at Lacsa Tech, creative editor at Raise'em, strategy and operations |
+| Web Development | Learning HTML, CSS, JavaScript, React, Node.js, Git, and GitHub through real projects |
 
 ---
 
 ## Current Roles
 
-- CEO - Lacsa Tech
-- Creative Editor - Raise'em
-- Full-stack development learner building practical web projects
-- CA aspirant with a commerce-first view of business and finance
+```txt
+CEO              Lacsa Tech
+Creative Editor  Raise'em
+Learning Track   Full-stack development
+Core Interest    AI automation + startup operations
+```
 
 ---
 
-## Tech & Tools
+## Tools I Use
 
-### Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### Creative & Business
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
+  <img src="https://img.shields.io/badge/Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+</p>
 
 ---
 
-## Featured Work
+## Featured Build Areas
 
-> Replace these with your best public repositories once they are ready.
-
-| Project | What it shows | Stack |
+| Project Direction | Why It Matters | Stack / Skill |
 | --- | --- | --- |
-| AI Automation Lab | Experiments with prompts, automation flows, and practical AI tools | AI, prompts, workflows |
-| Lacsa Tech Website | Startup presence, responsive design, and brand execution | HTML, CSS, JavaScript |
-| Creator Design Portfolio | Social media creatives, brand systems, and design direction | Canva, Photoshop, Figma |
-| Business Tools Dashboard | Simple tools for planning, tracking, and startup operations | React, Node.js |
-
----
-
-## My Working Style
-
-- I like building useful things that connect business goals with clean execution.
-- I use design to make ideas easier to understand and products easier to trust.
-- I am learning full-stack development by building practical projects, not just tutorials.
-- I care about automation, branding, speed, and systems that can scale.
+| `ai-automation-lab` | Experiments with prompt systems, AI workflows, and automation ideas | AI, prompts, workflow design |
+| `lacsa-tech-website` | Startup presence with clean brand execution | HTML, CSS, JavaScript |
+| `creator-design-portfolio` | Social media creatives, thumbnails, brand posts, and design direction | Canva, Photoshop, Figma |
+| `business-tools-dashboard` | Simple tools for tracking, planning, and startup operations | React, Node.js |
+| `startup-ops-playbook` | Business strategy, content systems, and execution notes | Operations, marketing, systems |
 
 ---
 
 ## GitHub Snapshot
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ghanshyam-pareek-dev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats for Ghanshyam Pareek" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-pareek-dev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages for Ghanshyam Pareek" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghanshyam-pareek-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8DFCF7&icon_color=A3FF12&text_color=D6E4FF" alt="GitHub stats for Ghanshyam Pareek" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-pareek-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8DFCF7&text_color=D6E4FF" alt="Top languages for Ghanshyam Pareek" />
 </p>
 
 ---
 
-## Connect
+## What I Am Building Toward
 
-- LinkedIn: [linkedin.com/in/ghanshyam-pareek](https://linkedin.com/in/ghanshyam-pareek)
-- Email: [avdhuu.work@gmail.com](mailto:avdhuu.work@gmail.com)
-- Portfolio: in progress
+- Shipping useful projects instead of only collecting tutorials
+- Turning business ideas into clean digital products
+- Using AI to build smarter workflows for creators, students, and startups
+- Growing Lacsa Tech into a practical technology and automation brand
+- Combining commerce knowledge with modern development and design skills
 
 ---
 
 <p align="center">
-  Building business-minded digital products with AI, automation, design, and code.
+  <b>Open to learning, building, collaborating, and turning sharp ideas into useful systems.</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghanshyam-pareek">LinkedIn</a>
+  |
+  <a href="mailto:avdhuu.work@gmail.com">Email</a>
+  |
+  <a href="https://github.com/ghanshyam-pareek-dev">GitHub</a>
 </p>
