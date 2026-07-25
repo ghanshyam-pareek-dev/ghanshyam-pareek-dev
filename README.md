@@ -22,29 +22,10 @@
 
 > I build AI-powered businesses, digital products, and practical systems. Currently leading Lacsa Tech, contributing to Raise'em, and growing ChromeEdgeDigital while expanding into finance and investments.
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="./assets/logo-lacsa.png?v=direct-logo-01" width="70" height="70" alt="Lacsa Tech logo"><br/>
-      <b>CEO</b><br/>
-      <sub>Lacsa Tech</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="./assets/logo-raiseem.png?v=direct-logo-01" width="70" height="70" alt="Raise'em logo"><br/>
-      <b>Creative Editor</b><br/>
-      <sub>Raise'em</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="./assets/logo-ced.png?v=direct-logo-01" width="70" height="70" alt="ChromeEdgeDigital logo"><br/>
-      <b>Founder</b><br/>
-      <sub>ChromeEdgeDigital</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+<picture>
+  <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg?v=roles-vector-01">
+  <img src="./assets/impact-premium-desktop.svg?v=roles-vector-01" width="100%" alt="Profile snapshot for Ghanshyam Pareek">
+</picture>
 
 <br/>
 
@@ -186,4 +167,3 @@ I am learning full-stack development by building and improving real projects. My
 ![Profile views](https://komarev.com/ghpvc/?username=ghanshyam-pareek-dev&color=2F81F7&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
