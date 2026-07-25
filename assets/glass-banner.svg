@@ -1,0 +1,67 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.42" stop-color="#0B1728"/>
+      <stop offset="1" stop-color="#05070D"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 100) rotate(38) scale(350 240)">
+      <stop stop-color="#25F4EE" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#25F4EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 290) rotate(-24) scale(420 260)">
+      <stop stop-color="#A3FF12" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#A3FF12" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 80) rotate(15) scale(360 180)">
+      <stop stop-color="#7C3AED" stop-opacity="0.33"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="78" y1="70" x2="1122" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.19"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.13"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="77" y1="68" x2="1123" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#25F4EE" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#A3FF12" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="shadow" x="30" y="35" width="1140" height="350" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="26" stdDeviation="26" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#orb1)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#orb2)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#orb3)"/>
+  <g opacity="0.22">
+    <path d="M0 90H1200M0 170H1200M0 250H1200M0 330H1200" stroke="#FFFFFF" stroke-opacity="0.3"/>
+    <path d="M140 0V420M300 0V420M460 0V420M620 0V420M780 0V420M940 0V420M1100 0V420" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="78" y="70" width="1044" height="280" rx="28" fill="url(#glass)" stroke="url(#stroke)" stroke-width="1.5"/>
+    <rect x="100" y="92" width="1000" height="236" rx="22" fill="#09111E" fill-opacity="0.42" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="1040" cy="132" r="6" fill="#A3FF12"/>
+    <circle cx="1012" cy="132" r="6" fill="#25F4EE"/>
+    <circle cx="984" cy="132" r="6" fill="#7C3AED"/>
+  </g>
+  <text x="128" y="148" fill="#8DFCF7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.5">COMMERCE X AI X DESIGN X CODE</text>
+  <text x="128" y="215" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">Ghanshyam Pareek</text>
+  <text x="130" y="258" fill="#D6E4FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">CA Aspirant | Startup Builder | AI Automation Enthusiast</text>
+  <text x="130" y="295" fill="#AAB8D5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Building business-minded digital products with automation, design, and full-stack learning.</text>
+  <g transform="translate(808 202)">
+    <rect x="0" y="0" width="256" height="84" rx="18" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <text x="22" y="33" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Founder Mode</text>
+    <text x="22" y="60" fill="#AAB8D5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Lacsa Tech + Raise'em</text>
+  </g>
+</svg>
