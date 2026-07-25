@@ -20,7 +20,7 @@
 
 <br/>
 
-> I am building at the intersection of commerce, AI automation, design, and startup execution. My focus is simple: learn fast, build useful systems, and turn ideas into clean digital products.
+> I build AI-powered businesses, digital products, and practical systems. Currently leading Lacsa Tech, contributing to Raise'em, and growing ChromeEdgeDigital while expanding into finance and investments.
 
 <picture>
   <source media="(max-width: 768px)" srcset="./assets/impact-premium-mobile.svg?v=clean-blue-02">
